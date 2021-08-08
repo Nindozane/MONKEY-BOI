@@ -1,0 +1,10 @@
+var first_name = "Aayush";
+var last_name = "Trivedi";
+var full_name = first_name.concat(last_name);
+var a = 10;
+var b = 5;
+var add = a + b ;
+console.log(full_name);
+console.log(a);
+console.log(b);
+console.log(add);
